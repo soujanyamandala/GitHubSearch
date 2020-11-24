@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GithubApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="search_hint">Repository Search</string>
+    <string name="no_contributors">No Contributors</string>
+    <string name="contributors">Contributors</string>
+    <string name="repositories">Repositories</string>
+    <string name="fetching">Fetching..</string>
+    <string name="no_repo_found">No repos found</string>
+    <string name="search_repos">Search Git Repos</string>
+    <string name="title_activity_canvas">CanvasActivity</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
